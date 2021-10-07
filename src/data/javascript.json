@@ -47,7 +47,7 @@
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "The Web server",
+                    "name": "The web server",
                     "isAnswer": false
                 },
                 {
@@ -59,7 +59,7 @@
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "The User's machine running a Web browser",
+                    "name": "The user's machine running a Web browser",
                     "isAnswer": true
                 },
                 {
@@ -119,7 +119,7 @@
                 {
                     "id": 1055,
                     "questionId": 1010,
-                    "name": "A Language based on Javascript",
+                    "name": "A language based on Javascript",
                     "isAnswer": true
                 },
                 {
@@ -131,7 +131,7 @@
                 {
                     "id": 1056,
                     "questionId": 1010,
-                    "name": "A DataType Collection of Javascript",
+                    "name": "A dataType Collection of Javascript",
                     "isAnswer": false
                 },
                 {

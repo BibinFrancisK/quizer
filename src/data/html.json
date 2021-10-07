@@ -29,13 +29,13 @@
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "both A & B",
+                    "name": "both hyperlinking and enhancing the document",
                     "isAnswer": true
                 },
                 {
                     "id": 1058,
                     "questionId": 1010,
-                    "name": "Shared Assemblies",
+                    "name": "share assemblies",
                     "isAnswer": false
                 }
             ],
@@ -47,7 +47,7 @@
         },
         {
             "id": 1011,
-            "name": "For a particular font its size attribute can be an absolute value ranging from___",
+            "name": "For a particular font, it's size attribute can be an absolute value ranging from___",
             "questionTypeId": 1,
             "options": [
                 {
@@ -359,7 +359,7 @@
                 {
                     "id": 1057,
                     "questionId": 1010,
-                    "name": "Both (a) and (b)",
+                    "name": "Both URI and HTTP",
                     "isAnswer": false
                 },
                 {
