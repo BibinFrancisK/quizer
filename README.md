@@ -1,10 +1,10 @@
 Quizer - Online Test Application
 
 General Info
-The Quizer online test application system provides online tests, provides the option to review the answers and displays the results after the quiz gets submitted. It is built on Angular.
+* The Quizer online test application system provides online tests, provides the option to review the answers and displays the results after the quiz gets submitted. It is built on Angular.
 
 Running the application
-Use 'npm install' and then 'ng serve' to run the application
+* Use 'npm install' and then 'ng serve' to run the application
 
 * Users can choose from different quiz options (viz. HTML, Java, JavaScript)
 * Users can mark their response for each question
