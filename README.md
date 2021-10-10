@@ -14,9 +14,9 @@ Use 'npm install' and then 'ng serve' to run the application
 * If the user exceeds the set time limit, marked answers are automatically submitted and the results are displayed
 
 Technology, Concepts & Frameworks Used 
-• Angular & TypeScript
-• JSON
-• HTML5
-• CSS3
-• BootStrap5
-• Microsoft VS Code Editor
+* Angular & TypeScript
+* JSON
+* HTML5
+* CSS3
+* BootStrap5
+* Microsoft VS Code Editor
