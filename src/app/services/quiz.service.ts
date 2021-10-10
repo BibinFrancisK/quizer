@@ -34,6 +34,6 @@ export class QuizService {
           "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. These 10 questions test your beginner-level knowledge of HTML.",
         imageUrl: 'assets/images/html.jpg',
       },
-    ];
+    ]; 
   }
-}
+} //users can opt from these three quiz topics

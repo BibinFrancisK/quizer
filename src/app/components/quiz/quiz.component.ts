@@ -153,7 +153,7 @@ export class QuizComponent implements OnInit {
         questionId: x.id,
         answered: x.answered,
       })
-    );
+    ); //answers pushed into answers array
 
     // Post your data to the server here. answers contains the questionId and the users' answer.
     //console.log(this.quiz.questions);

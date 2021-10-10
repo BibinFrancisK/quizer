@@ -15,4 +15,4 @@ export class QuizListComponent implements OnInit {
   ngOnInit(): void {
     this.quizes = this.quizService.getAll();
   }
-}
+} //provides the three pre-defined quiz options
